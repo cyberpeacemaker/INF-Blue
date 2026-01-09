@@ -1,16 +1,25 @@
 #
-- Authorization
-- Chain of Custody
-- Write Blocker
+- [Authorization, Chain of Custody, Write Blocker]
+- [(network), memory, registry, event log, file system data]
 
 - bit-by-bit copies image [Disk, Memory]
+
 
 #
 - pdfinfo, exiftool
 
-# Log
 
 # Windows
+
+## Registry
+Copy registry hive files from:
+
+```powershell
+C:\Windows\System32\Config\
+C:\Users\<username>\
+```
+
+Hash files (SHA256/MD5) immediately
 
 ---
 https://ithelp.ithome.com.tw/m/articles/10364000

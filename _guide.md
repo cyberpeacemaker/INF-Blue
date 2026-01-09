@@ -17,7 +17,8 @@
 
 - Authentication, Authorization, Access Control 
 - Configure (Baseline + Tool)
-- Unnecesary port, service, app, NIC | peer-to-peer function (PAN), Wi-Fi Direct, BT, BLE, NFC
+- Unnecesary: port, service, app, NIC | peer-to-peer function (PAN), Wi-Fi Direct, BT, BLE, NFC
+- outdated: NTLM
 - Encrypted
 - Patch
 - Management
@@ -35,8 +36,11 @@
 
 # My Subjective Note
 - AntiVirus (signature-based) is useless
+    - difficult to differentiate anomalous behavior from normal behavior.
 - Security Product (IDS, EDR, UTF...) only work when come along with the people know how to use it (Think other case in real world)
 
+# Malicious Indicator
+- 13.4
 
 ---
 
