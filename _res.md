@@ -12,15 +12,18 @@
 ---
 
 # Net
+- Capturing raw packets [WinPcap, Npcap]
 - Wireshark
 - Tcpdump
+- Tshark
+
 - Zeek [https://zeek.org/]
 - splunk
 
 # Analysis
 - PeStudeio
 
-- ProcMon (ProcDOT)
+- **ProcMon** (ProcDOT)
 - Regshot
 
 ---
@@ -38,8 +41,11 @@
 - KAPE
 
 - ✅Dumpit
+- Velociraptor [https://docs.velociraptor.app/]
+- Magnet RAM Capture [https://www.magnetforensics.com/resources/magnet-ram-capture/]
 - WinDbg
 - Comae Platform
+- MemProcFS [https://github.com/ufrisk/MemProcFS]
 
 ## Registry Explorer
 - Eric Zimmer [https://ericzimmerman.github.io/#!index.md]

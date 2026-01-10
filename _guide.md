@@ -4,6 +4,7 @@
 - DDOS - Availablity (Redudant, Load Balancer)
 - Monitor Employee - (DNS filtering)
 - Intelectual Property (white list, compensating control)
+- Return of Investiment (Threat Hunting)
 
 # Cause
 - Social Engineering < least privilege 
@@ -22,7 +23,7 @@
 - Encrypted
 - Patch
 - Management
-- Accounting, Monitor
+- Accounting, Monitor (Firewall)
 - Security Product(anitimalware, firewall, IDS, EDR, DLP)
 
 - Network
@@ -33,6 +34,7 @@
     - Disk Encryption (Self-encrypting Drive)
     - Intergrity Check (File, Memory...), Hash
 
+"using out-of-band communication. using corperate email runs the risk"
 
 # My Subjective Note
 - AntiVirus (signature-based) is useless

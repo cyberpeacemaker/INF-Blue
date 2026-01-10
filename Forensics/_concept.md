@@ -1,8 +1,9 @@
 #
-- [Authorization, Chain of Custody, Write Blocker]
+- [Authorization, Chain of Custody (**Document the step**), Write Blocker]
 - [(network), memory, registry, event log, file system data]
 
 - bit-by-bit copies image [Disk, Memory]
+
 
 
 #
@@ -10,6 +11,10 @@
 
 
 # Windows
+
+# Acquistion
+⚠️ A Critical Forensic Rule
+If the computer is ON (Live Response), you generally cannot use a hardware write blocker on the system's own internal hard drive because the OS is already writing to it (logs, temp files, etc.). In that specific case, you skip the write blocker and focus on Speed and Documentation—you capture the RAM first, then use your USB tools to image the disk, acknowledging in your report that the "Live" nature of the system meant a hardware write blocker could not be used.
 
 ## Registry
 Copy registry hive files from:

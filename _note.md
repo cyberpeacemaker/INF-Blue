@@ -30,3 +30,7 @@ There are also examples of rootkits that can reside in **firmware** (either the 
 
 # Wireless Replay
 Wireless authentication is vulnerable to various types of replay attacks that **aim to capture the hashes** used when a wireless station associates with an access point. Once the hash is captured, it can be subjected to offline brute force and dictionary cracking. A KRACK attack uses a replay mechanism that targets the WPA and WPA2 4-way handshake. KRACK is effective regardless of whether the authentication mechanism is personal or enterprise. It is important to ensure both clients and access points are fully patched against such attacks.
+
+# Tactic
+new attack that the attacker could launch through information they have gained about the network.
+attacker may trigger a denial of service attack to divert the security team's attention and then attempt to accelerate plans to achieve actions on objectives
