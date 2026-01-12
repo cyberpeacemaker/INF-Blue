@@ -1,12 +1,12 @@
 # Log
-| Log Type        | Usage | Example |
+| Log Type        | Usage | Example  |
 |-----------------|-------|---------|
-| System Logs | The system logs can be helpful in troubleshooting running issues in the OS. These logs provide information on various operating system activities. | System Startup and shutdown events<br>Driver Loading events<br>System Error events<br>Hardware events |
-| Security Logs | The security logs help detect and investigate incidents. These logs provide information on the security-related activities in the system. | Authentication events<br>Authorization events<br>Security Policy changes events<br>User Account changes events<br>Abnormal Activity events |
-| Application Logs | The application logs contain specific events related to the application. Any interactive or non-interactive activity happening inside the application will be logged here. | User Interaction events<br>Application Changes events<br>Application Update events<br>Application Error events |
-| Audit Logs | The Audit logs provide detailed information on the system changes and user events. These logs are helpful for compliance requirements and play a vital role in security monitoring. | Data Access events<br>System Change events<br>User Activity events<br>Policy Enforcement events |
-| Network Logs | Network logs provide information on the network’s outgoing and incoming traffic. They play a crucial role in troubleshooting network issues and incident investigations. | Incoming Network Traffic events<br>Outgoing Network Traffic events<br>Network Connection Logs<br>Network Firewall Logs |
-| Access Logs | The Access logs provide detailed information about access to different resources. | Webserver Access Logs<br>Database Access Logs<br>Application Access Logs<br>API Access Logs |
+| System Logs | The system logs can be helpful in troubleshooting running issues in the OS. These logs provide information on various operating system activities. | System Startup and shutdown events; Driver Loading events; System Error events; Hardware events |
+| Security Logs | The security logs help detect and investigate incidents. These logs provide information on the security-related activities in the system. | Authentication events; Authorization events; Security Policy changes events; User Account changes events; Abnormal Activity events |
+| Application Logs | The application logs contain specific events related to the application. Any interactive or non-interactive activity happening inside the application will be logged here. | User Interaction events; Application Changes events; Application Update events; Application Error events |
+| Audit Logs | The Audit logs provide detailed information on the system changes and user events. These logs are helpful for compliance requirements and play a vital role in security monitoring. | Data Access events; System Change events; User Activity events; Policy Enforcement events |
+| Network Logs | Network logs provide information on the network’s outgoing and incoming traffic. They play a crucial role in troubleshooting network issues and incident investigations. | Incoming Network Traffic events; Outgoing Network Traffic events; Network Connection Logs; Network Firewall Logs |
+| Access Logs | The Access logs provide detailed information about access to different resources. | Webserver Access Logs; Database Access Logs; Application Access Logs; API Access Logs |
 
 #  Windows Registry Hives Overview
 

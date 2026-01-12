@@ -34,3 +34,11 @@ Wireless authentication is vulnerable to various types of replay attacks that **
 # Tactic
 new attack that the attacker could launch through information they have gained about the network.
 attacker may trigger a denial of service attack to divert the security team's attention and then attempt to accelerate plans to achieve actions on objectives
+
+# Firmware
+Another vulnerability, "LoJax," discovered in the Unified Extensible Firmware Interface (UEFI) firmware in 2018, enabled an attacker to persist on a system even after a complete hard drive replacement or OS reinstallation. 
+
+# Malicious Update
+In 2017, the legitimate software CCleaner was compromised when an unauthorized update was released containing a malicious payload. This affected millions of users who downloaded the update, believing it was a standard upgrade to improve their system's performance. https://arstechnica.com/information-technology/2017/09/backdoor-malware-planted-in-legitimate-software-updates-to-ccleaner/
+
+Another notable case is the 2020 SolarWinds attack, where attackers used an update to the SolarWinds Orion platform to distribute a malicious backdoor to numerous government and corporate networks, leading to significant data breaches. https://www.npr.org/2021/04/16/985439655/a-worst-nightmare-cyberattack-the-untold-story-of-the-solarwinds-hack

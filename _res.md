@@ -1,4 +1,6 @@
 # Web
+- **Windows Security Docs** [https://learn.microsoft.com/en-us/windows/security/]
+- Microsoft SCT [https://learn.microsoft.com/en-us/windows/security/operating-system-security/device-management/windows-security-configuration-framework/security-compliance-toolkit-10]
 - **CISA Services** [https://www.cisa.gov/resources-tools/services]
 - gcatoolkit [https://gcatoolkit.org/tool/adblock/]
 - AbusedIDPB
@@ -6,6 +8,7 @@
 - CIS Benchmarks
 - Security Technical Implementation Guides (STIGs) < Defense Information Systems Agency (DISA) 
 - DNSChecker [https://dnschecker.org/]
+- Message Header Analyzer [https://mha.azurewebsites.net/]
 
 # Info
 
@@ -16,7 +19,8 @@
 - Wireshark
 - Tcpdump
 - Tshark
-
+\
+- Glasswire
 - Zeek [https://zeek.org/]
 - splunk
 
