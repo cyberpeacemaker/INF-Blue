@@ -10,6 +10,42 @@
 - DNSChecker [https://dnschecker.org/]
 - Message Header Analyzer [https://mha.azurewebsites.net/]
 
+# Education Framework
+- NIST NICE [https://www.nist.gov/itl/applied-cybersecurity/nice]
+
+# Threat Feed
+- Alien Lab Open Threat Exchange
+- IBM X-Force Exchange
+- Recorded Future
+
+- Cyber Threat Alliance [https://www.cyberthreatalliance.org/]
+- MISP [https://www.misp-project.org/]
+
+- IThome
+- 資通安全研究院
+- 中研院資安中心
+- DARPA (https://www.darpa.mil/news)
+- CISA [Cybersecurity & Infrastructure Security Agency] (https://www.cisa.gov/)
+- Twitter
+- Feedly
+- thehackernews.com
+
+# Open-source Intelligence (**OSINT**) 
+- [Shodan, Maltego, Recon-ng, theHarverster]
+- OSINT framework [https://github.com/lockfale/osint-framework]
+
+# Threat Intelligence
+- MITRE ATT&CK Matrix
+- exploit database (https://www.exploit-db.com/)
+- NIST Cybersecurity Framework
+- CISA [https://www.cisa.gov/]
+- Github awesome-threat-intelligence
+- Github awesome-threat-detection
+- Google Threat Intelligence [https://cloud.google.com/security/products/threat-intelligence]
+- Mandiant Trends Report [https://cloud.google.com/security/resources/m-trends]
+- Cybersecurity & Infrastructure Security Agency
+- Microsoft Security [https://www.microsoft.com/en-us/security/]
+
 # Info
 
 ---
@@ -115,3 +151,10 @@
 - SonarQube
 - Coverity
 - Fortify
+
+# Vulnerable scanning
+- Greenbone OpenVAS
+- Tenable Nessus
+
+# SBOM
+- CycloneDX [https://cyclonedx.org/]

@@ -3,8 +3,15 @@
 - Ransom, Disaster, Loss - Recovery (Backup)
 - DDOS - Availablity (Redudant, Load Balancer)
 - Monitor Employee - (DNS filtering)
-- Intelectual Property (white list, compensating control)
+- Intelectual Property (white list, compensating control, unsurance)
 - Return of Investiment (Threat Hunting)
+- Employee Training
+
+# Solution
+- Pathcing
+- Semgentation
+- Compensating Control
+- Cybersecurity insurance
 
 # Cause
 - Social Engineering < least privilege 
@@ -23,7 +30,7 @@
 - Encrypted
 - Patch
 - Management
-- Accounting, Monitor (Firewall)
+- Accounting, Monitor (Firewall), Threat Feed
 - Security Product(anitimalware, firewall, IDS, EDR, DLP)
 
 - Network
