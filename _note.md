@@ -42,3 +42,9 @@ Another vulnerability, "LoJax," discovered in the Unified Extensible Firmware In
 In 2017, the legitimate software CCleaner was compromised when an unauthorized update was released containing a malicious payload. This affected millions of users who downloaded the update, believing it was a standard upgrade to improve their system's performance. https://arstechnica.com/information-technology/2017/09/backdoor-malware-planted-in-legitimate-software-updates-to-ccleaner/
 
 Another notable case is the 2020 SolarWinds attack, where attackers used an update to the SolarWinds Orion platform to distribute a malicious backdoor to numerous government and corporate networks, leading to significant data breaches. https://www.npr.org/2021/04/16/985439655/a-worst-nightmare-cyberattack-the-untold-story-of-the-solarwinds-hack
+
+#
+B. Certificate Hijacking
+If an attacker can trick you into installing a Fake Root Certificate (common in corporate "monitoring" software or malware), they can generate their own "valid-looking" certificates for any website.
+
+Result: Your browser shows a green padlock, but the attacker is actually decrypting, reading, and re-encrypting your traffic in the middle.
