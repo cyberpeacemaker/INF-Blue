@@ -1,3 +1,12 @@
+#
+OpenID, SAML, OAuth, WS-Security, ADFS
+| 類別 | 代表工具 (開源/主流) | 核心功能 (一句話形容) | 自動化整合點 |
+|-----|--------------------|------------------|-------------|
+| TIP (情資管理) | MISP, ThreatConnect, Recorded Future | 「誰是壞人？」：收集並關聯全球威脅情資。 | 自動同步外部黑名單，產出電腦可讀的情資格式。 |
+| SOAR (編排回應) | Cortex XSOAR, Splunk SOAR, Shuffle | 「自動做事」：串接所有設備，跑自動化劇本。 | 根據情資，自動下指令給防火牆封鎖或通知管理員。 |
+| SBOM (零件清單) | Dependency-Track, Syft / Grype, Trivy | 「裡面裝啥？」：管理軟體組件與漏洞。 | 當新漏洞爆發，自動定位公司內哪些軟體受災。 |
+| SIEM / XDR (監測分析) | ELK (Elastic), Splunk, Microsoft Sentinel | 「發生什麼事？」：分析日誌，發出警報。 | 觸發 SOAR 開始跑劇本，並比對 TIP 情資。 |
+
 # Web
 - **Windows Security Docs** [https://learn.microsoft.com/en-us/windows/security/]
 - Microsoft SCT [https://learn.microsoft.com/en-us/windows/security/operating-system-security/device-management/windows-security-configuration-framework/security-compliance-toolkit-10]
