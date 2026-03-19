@@ -7,7 +7,7 @@ Another example is the O.MG cable (theverge.com/2019/8/15/20807854/apple-mac-lig
 GPS signals can be jammed or even spoofed using specialist radio equipment. This might be used to defeat geofencing mechanisms for instance.'
 
 # BT
-BlueBorne exploit (armis.com/blueborne), which can compromise any active and unpatched system regardless of **whether discovery** is enabled and w**ithout requiring any user intervention**. There are also vulnerabilities in the authentication schemes of many devices. 
+BlueBorne exploit (armis.com/blueborne), which can compromise any active and unpatched system regardless of **whether discovery** is enabled and **without requiring any user intervention**. There are also vulnerabilities in the authentication schemes of many devices. 
 
 Using a control center toggle may not actually turn off the Bluetooth radio on a mobile device. If there is any doubt about patch status or exposure to vulnerabilities, Bluetooth **should be fully disabled** through device settings.
 

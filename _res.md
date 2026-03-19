@@ -8,6 +8,7 @@ OpenID, SAML, OAuth, WS-Security, ADFS
 | SIEM / XDR (監測分析) | ELK (Elastic), Splunk, Microsoft Sentinel | 「發生什麼事？」：分析日誌，發出警報。 | 觸發 SOAR 開始跑劇本，並比對 TIP 情資。 |
 
 # Web
+- https://www.filescan.io/scan
 - **Windows Security Docs** [https://learn.microsoft.com/en-us/windows/security/]
 - Microsoft SCT [https://learn.microsoft.com/en-us/windows/security/operating-system-security/device-management/windows-security-configuration-framework/security-compliance-toolkit-10]
 - **CISA Services** [https://www.cisa.gov/resources-tools/services]
